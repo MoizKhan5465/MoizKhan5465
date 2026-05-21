@@ -1,149 +1,93 @@
-# Muhammad Moheez 👨‍💻
+# Muhammad Moheez
 
-### AI Engineer | Full Stack Developer | Computer Vision & Generative AI Enthusiast
+Backend Developer & AI Engineer
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-moheez-99a3b4298">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Moheez-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:moizsardar056@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+I build scalable backend systems and AI-powered applications with a strong focus on performance, system design, and real-world problem solving.
+
+Currently working with Django, FastAPI, Computer Vision, NLP, and Generative AI technologies to create production-ready applications.
 
 ---
 
-## 🚀 About Me
+## Tech Stack
 
-I'm an Artificial Intelligence undergraduate passionate about building scalable backend systems and integrating AI into real-world applications.
-
-My primary focus is on:
-
-- ⚡ Backend Engineering with Django & FastAPI
-- 🤖 AI-Powered Applications
-- 👁️ Computer Vision Systems
-- 🧠 NLP & Retrieval-Augmented Generation (RAG)
-- 🐳 Dockerized Production Deployments
-- 📈 Performance Optimization & Scalable APIs
-
-I enjoy designing systems that are not only functional, but production-ready — focusing on architecture, scalability, security, and performance.
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Backend Development
+### Backend & APIs
 - Django
 - Django REST Framework (DRF)
 - FastAPI
 - REST APIs
 - JWT Authentication
-- Redis Caching
-- API Throttling
+- Redis
+- PostgreSQL
 
-### 🤖 Artificial Intelligence
+### Artificial Intelligence
 - PyTorch
 - TensorFlow
 - Scikit-learn
 - OpenCV
 - LangChain
 - RAG Pipelines
-- Prompt Engineering
-
-### 👁️ Computer Vision
-- YOLOv8
-- Mask R-CNN
-- ResNet
-- EfficientNet
-
-### 🧠 NLP & LLMs
 - Transformers
-- Vector Databases
-- Word Embeddings
-- Semantic Search
 
-### 🗄 Databases & DevOps
-- PostgreSQL
+### DevOps & Tools
+- Docker
+- Git & GitHub
 - MongoDB
 - Supabase
 - Firebase
-- Docker
-- Git & GitHub
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 💰 Expense Tracker API
-Scalable RESTful API built with Django REST Framework.
-
-#### Key Features:
-- JWT Authentication
-- Redis Caching
-- API Rate Limiting
-- Optimized Database Queries
-- Dockerized Deployment
-
----
-
-### 🏢 Enterprise HRMS System
-Enterprise-level HR management platform inspired by ERP systems.
-
-#### Modules:
+### Enterprise HRMS System
+Enterprise-level HR management system with modules for:
 - Employee Management
-- Leave Management
 - Attendance Tracking
-- Payroll & Performance
+- Leave Management
+- Payroll
 - Role-Based Access Control
 
----
+### Expense Tracker API
+Scalable REST API with:
+- JWT Authentication
+- Redis Caching
+- API Throttling
+- Optimized Queries
+- Dockerized Deployment
 
-### 🚦 Autonomous Traffic Analysis & Surveillance System
-Real-time traffic monitoring system using Computer Vision.
+### Autonomous Traffic Analysis System
+Real-time traffic surveillance system using:
+- YOLOv8
+- Mask R-CNN
+- OpenCV
+- PyTorch
 
-#### Highlights:
-- YOLOv8-based detection
-- Mask R-CNN segmentation
-- Real-time anomaly detection
-- High FPS optimization
+Includes detection, segmentation, and anomaly monitoring.
 
----
-
-### 📚 AI-Powered Academic Q&A System (RAG)
-Retrieval-Augmented Generation system for academic documents.
-
-#### Features:
-- Semantic Search
-- Embedding-based Retrieval
-- Context-Aware Responses
-- LLM Integration
-
----
-
-## 📈 Current Focus
-
-Currently exploring:
-
-- Advanced System Design
-- Scalable AI Infrastructure
-- Multi-Agent AI Systems
-- LLM Applications
-- Real-Time AI Systems
-- Distributed Backend Architectures
+### AI-Powered Academic Q&A System
+RAG-based application that:
+- Performs semantic search
+- Uses vector embeddings
+- Generates context-aware responses using LLMs
 
 ---
 
-## 🎯 Philosophy
+## Current Interests
 
-> “Building systems that scale is not only about handling traffic — it’s about writing maintainable, reliable, and intelligent software.”
+- Scalable Backend Architecture
+- System Design
+- Computer Vision
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- Production AI Systems
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- LinkedIn: <a href="https://www.linkedin.com/in/muhammad-moheez-99a3b4298">Muhammad Moheez</a>
+- LinkedIn: [Muhammad Moheez](https://www.linkedin.com/in/muhammad-moheez-99a3b4298)
 - Email: moizsardar056@gmail.com
 
 ---
 
-⭐ Always open to collaboration on AI, Backend Engineering, and Computer Vision projects.
+> Building systems that are scalable, maintainable, and production-ready.
