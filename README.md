@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Moheez!
 
-I am an **Artificial Intelligence Undergraduate & Backend Developer** specializing in architecting scalable backend systems, high-performance API designs, and production-ready AI applications. My engineering focus bridges robust software architecture with deep learning deployment to solve real-world problems.
+I am an **Backend Developer** specializing in architecting scalable backend systems, high-performance API designs, and production-ready AI applications. My engineering focus bridges robust software architecture with deep learning deployment to solve real-world problems.
 
 Currently, I leverage the **Django ecosystem, FastAPI, and Advanced ML/DL architectures** to build secure, highly optimized, and enterprise-grade software solutions.
 
